@@ -1,0 +1,7 @@
+<div class="container">
+  <h2>Blog Application</h2>
+  <ul class="list-group" >
+    <app-blog-component *ngFor="let blogItem of blogs" [title]="blogItem.title" [createdDate]="blogItem.createdDate" [content]="blogItem.content" [loveIts]="blogItem.loveIts">
+    </app-blog-component>
+  </ul>
+</div>

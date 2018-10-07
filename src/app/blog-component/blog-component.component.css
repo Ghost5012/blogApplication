@@ -1,0 +1,11 @@
+.bouton2{
+    margin-left: 5px;
+}
+.titre{
+    float: left;
+    /* text-align: left; */
+} 
+.date{
+    float:right;
+    margin-top: 25px;
+}
