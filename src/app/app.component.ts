@@ -11,7 +11,7 @@ export class AppComponent {
     {
       title:"Le football et la mondialisation",
       content:"le football plus que beaucoup d'autres domaines et plus que tous les sports rassemble des personnes de differentes races, confessions religieuses de part le monde",
-      loveIts:2.,
+      loveIts:5.,
       createdDate:new Date()
     },
     {
@@ -23,7 +23,7 @@ export class AppComponent {
     {
       title:"La politique en afrique",
       content:"le football plus que beaucoup d'autres domaines et plus que tous les sports rassemble des personnes de differentes races, confessions religieuses de part le monde",
-      loveIts:3.,
+      loveIts:-4.,
       createdDate:new Date()
     },
     {
